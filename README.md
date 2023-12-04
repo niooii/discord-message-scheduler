@@ -1,4 +1,4 @@
-# discord-message-scheduler
+# A Discord Message Scheduler
 <br>
 Pretty self explainatory. A GUI app to schedule discord messages.
 <br> 
